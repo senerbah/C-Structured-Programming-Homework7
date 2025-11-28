@@ -1,5 +1,4 @@
 # UBI 503 – Data Structures and Algorithms (590616 – 2526G)  
-## 7th Homework
 
 **Assignment Date:** 02.12.2025  
 **Due Date:** 09.12.2025  
